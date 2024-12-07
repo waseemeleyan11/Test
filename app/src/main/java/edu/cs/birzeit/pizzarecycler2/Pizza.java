@@ -3,7 +3,7 @@ package edu.cs.birzeit.pizzarecycler2;
 public class Pizza {
     private String name;
     private int imageID;
-
+//This it for testing
     public static final Pizza[] pizzas = {
             new Pizza("Diavolo", R.drawable.diavolo),
             new Pizza("Funghi", R.drawable.funghi),
